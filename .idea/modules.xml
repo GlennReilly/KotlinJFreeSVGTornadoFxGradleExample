@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo_main.iml" group="jfreeSvgKotlinTornadoFxDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jfreeSvgKotlinTornadoFxDemo_test.iml" group="jfreeSvgKotlinTornadoFxDemo" />
+    </modules>
+  </component>
+</project>
